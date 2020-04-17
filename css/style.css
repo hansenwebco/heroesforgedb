@@ -1,0 +1,23 @@
+
+.legendary {
+    background-color: gold;
+}
+.epic {
+    background-color: mediumslateblue;
+}
+.rare {
+    background-color: skyblue;
+}
+
+.uncommon {
+    background-color: seagreen;
+}
+
+
+body {
+    margin-top:50px;
+}
+
+#chars td:nth-child(n+6) {
+    text-align: center;
+}
