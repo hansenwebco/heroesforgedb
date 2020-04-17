@@ -1,17 +1,19 @@
 
-.legendary {
-    background-color: gold;
+.legendary td:nth-child(3) {
+    color: rgb(196, 169, 19);
 }
-.epic {
-    background-color: mediumslateblue;
+.epic td:nth-child(3) {
+    color: rgb(198, 33, 231);
 }
-.rare {
-    background-color: skyblue;
+.rare  td:nth-child(3) {
+    color: blue;
 }
 
-.uncommon {
-    background-color: seagreen;
+.uncommon  td:nth-child(3) {
+    color: rgb(37, 190, 104);
 }
+
+
 
 
 body {
@@ -20,4 +22,22 @@ body {
 
 #chars td:nth-child(n+6) {
     text-align: center;
+}
+
+th {
+    font-size: .8rem;
+    white-space: nowrap;
+    text-align: center;
+    height:auto !important;
+    padding:3px !important;
+}
+td {
+    white-space: nowrap;
+    overflow: hidden;;
+}
+
+.flt {
+    font-size: .6rem !important;
+    height:auto !important;
+    padding:3px !important;
 }
