@@ -310,6 +310,20 @@
     },
     {
       "id": 24,
+      "": "Sentinel",
+      "affinity": "Light",
+      "rarity": "Uncommon",
+      "power": "Physical",
+      "combat": "Ranged",
+      "baseHealth": 212,
+      "baseAttackPower": 97,
+      "baseArmour": 65,
+      "baseCritRate": 7.426,
+      "baseCritPower": 1.53,
+      "baseInitiative": 111
+    },
+    {
+      "id": 25,
       "": "Slasher",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -323,7 +337,7 @@
       "baseInitiative": 133
     },
     {
-      "id": 25,
+      "id": 26,
       "": "Succubus",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -337,7 +351,7 @@
       "baseInitiative": 121
     },
     {
-      "id": 26,
+      "id": 27,
       "": "Void Assassin",
       "affinity": "Darkness",
       "rarity": "Uncommon",
@@ -351,7 +365,7 @@
       "baseInitiative": 133
     },
     {
-      "id": 27,
+      "id": 28,
       "": "Archer",
       "affinity": "Light",
       "rarity": "Common",
@@ -365,7 +379,7 @@
       "baseInitiative": 120
     },
     {
-      "id": 28,
+      "id": 29,
       "": "Mage",
       "affinity": "Light",
       "rarity": "Common",
@@ -379,7 +393,7 @@
       "baseInitiative": 100
     },
     {
-      "id": 29,
+      "id": 30,
       "": "Rogue",
       "affinity": "Light",
       "rarity": "Common",
@@ -393,7 +407,7 @@
       "baseInitiative": 110
     },
     {
-      "id": 30,
+      "id": 31,
       "": "Squire",
       "affinity": "Light",
       "rarity": "Common",
@@ -407,7 +421,7 @@
       "baseInitiative": 80
     },
     {
-      "id": 31,
+      "id": 32,
       "": "Swordsman",
       "affinity": "Light",
       "rarity": "Common",
